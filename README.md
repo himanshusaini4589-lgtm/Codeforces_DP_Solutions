@@ -33,6 +33,7 @@ Codeforces-DP-Solutions/
 | # | Problem | Topic | Status |
 |---|---------|-------|--------|
 | 165C | [Another Problem on Strings](https://codeforces.com/problemset/problem/165/C) | Prefix Sum + Hashmap | ✅ Done |
+| 1398C | [Good Subarrays](https://codeforces.com/problemset/problem/1398/C) | Prefix Sum + Hashmap | ✅ Done |
 
 ---
 
