@@ -34,6 +34,7 @@ Codeforces-DP-Solutions/
 |---|---------|-------|--------|
 | 165C | [Another Problem on Strings](https://codeforces.com/problemset/problem/165/C) | Prefix Sum + Hashmap | ✅ Done |
 | 1398C | [Good Subarrays](https://codeforces.com/problemset/problem/1398/C) | Prefix Sum + Hashmap | ✅ Done |
+| 1389B | [Array Walk](https://codeforces.com/problemset/problem/1389/B) | DP | ✅ Done |
 
 ---
 
