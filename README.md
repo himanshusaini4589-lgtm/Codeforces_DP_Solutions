@@ -58,7 +58,7 @@ Codeforces-DP-Solutions/
 
 | # | Problem | Topic | Status |
 |---|---------|-------|--------|
-| - | Coming soon | - | ⬜ |
+| 1036C | [Classy Numbers](https://codeforces.com/problemset/problem/1036/C) | Digit DP + Precomputation | ✅ Done |
 
 ---
 
