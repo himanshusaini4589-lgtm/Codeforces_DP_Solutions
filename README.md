@@ -13,17 +13,17 @@
 ---
 
 ## 📂 Folder Structure
-
-```
 Codeforces-DP-Solutions/
 ├── 1600-Rating/
-│   └── 165C_Another_Problem_on_Strings.cpp
+│   ├── 165C_Another_Problem_on_Strings.cpp
+│   ├── 1398C_Good_Subarrays.cpp
+│   ├── 1389B_Array_Walk.cpp
+│   └── 706C_Hard_Problem.cpp
 ├── 1700-Rating/
 ├── 1800-Rating/
 ├── 1900-Rating/
+│   └── 1036C_Classy_Numbers.cpp
 └── 2000-Rating/
-```
-
 ---
 
 ## 📌 Progress Tracker
@@ -35,6 +35,7 @@ Codeforces-DP-Solutions/
 | 165C | [Another Problem on Strings](https://codeforces.com/problemset/problem/165/C) | Prefix Sum + Hashmap | ✅ Done |
 | 1398C | [Good Subarrays](https://codeforces.com/problemset/problem/1398/C) | Prefix Sum + Hashmap | ✅ Done |
 | 1389B | [Array Walk](https://codeforces.com/problemset/problem/1389/B) | DP | ✅ Done |
+| 706C | [Hard Problem](https://codeforces.com/problemset/problem/706/C) | DP on String Orientations | ✅ Done |
 
 ---
 
@@ -62,7 +63,7 @@ Codeforces-DP-Solutions/
 
 ---
 
-### ⚫ 2000+ Rating
+### ⚫ 2000 Rating
 
 | # | Problem | Topic | Status |
 |---|---------|-------|--------|
