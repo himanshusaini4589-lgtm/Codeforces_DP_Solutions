@@ -12,20 +12,6 @@
 
 ---
 
-## 📂 Folder Structure
-Codeforces-DP-Solutions/
-├── 1600-Rating/
-│   ├── 165C_Another_Problem_on_Strings.cpp
-│   ├── 1398C_Good_Subarrays.cpp
-│   ├── 1389B_Array_Walk.cpp
-│   └── 706C_Hard_Problem.cpp
-├── 1700-Rating/
-├── 1800-Rating/
-├── 1900-Rating/
-│   └── 1036C_Classy_Numbers.cpp
-└── 2000-Rating/
----
-
 ## 📌 Progress Tracker
 
 ### 🟢 1600 Rating
